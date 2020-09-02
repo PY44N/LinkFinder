@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LinkFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LinkFinder_jar</output-path>
+    <root id="archive" name="LinkFinder.jar">
+      <element id="module-output" name="LinkFinder" />
+    </root>
+  </artifact>
+</component>
